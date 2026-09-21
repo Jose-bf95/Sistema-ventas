@@ -2,7 +2,7 @@
   "name": "POS Universal — Jose Becerra",
   "short_name": "POS JB",
   "description": "Sistema POS Universal: bodega, charcutería, panadería, carnicería, licorería, frutería y más. Desarrollado por Jose Becerra · 0424-600-6536",
-  "start_url": "/Sistema-ventas/index.html"
+  "start_url": "/Sistema-ventas/index.html",
   
   "display": "standalone",
   "orientation": "any",
